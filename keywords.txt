@@ -1,4 +1,8 @@
-### Functions ###
+### Calculation ###
 Logarithmic	KEYWORD2
 InverseLogarithmic	KEYWORD2
 SCurve	KEYWORD2
+
+### Conversion ###
+FtoI	KEYWORD2
+ItoF	KEYWORD2

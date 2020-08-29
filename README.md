@@ -1,5 +1,5 @@
 1. Add library to your arduino IDE 
- - Open terminal in your Arduino/libraries directory, and run "git clone https://github.com/RPBCACUEAIIBH/Delinearizer/tree/Arduino" and restart the IDE.
+ - Open terminal in your Arduino/libraries directory, and run "git clone https://github.com/RPBCACUEAIIBH/Delinearizer" and restart the IDE.
  - Download as .zip package, go to the Sketch/Include Library/Add .ZIP Library... in you Arduino IDE, select it, and click ok.
 2. Open the example sketch to see how to use it.
 
