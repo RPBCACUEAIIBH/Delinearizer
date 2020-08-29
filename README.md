@@ -1,4 +1,6 @@
-1. Clone it or download as zip package into the libraries forlder of your arduino IDE
+1. Add library to your arduino IDE 
+ - Open terminal in your Arduino/libraries directory, and run "git clone https://github.com/RPBCACUEAIIBH/Delinearizer/tree/Arduino" and restart the IDE.
+ - Download as .zip package, go to the Sketch/Include Library/Add .ZIP Library... in you Arduino IDE, select it, and click ok.
 2. Open the example sketch to see how to use it.
 
 Basically it has a few functions, you feed it a float value that you increment/decrement linearly in a for loop and it returns it's non linear equivalent depending on the function you call.

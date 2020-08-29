@@ -1,6 +1,3 @@
-### Library name ###
-Delinearizer KEYWORD1
-
 ### Functions ###
 Logarithmic	KEYWORD2
 InverseLogarithmic	KEYWORD2
