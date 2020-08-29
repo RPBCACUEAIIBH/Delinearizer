@@ -5,4 +5,4 @@ Basically it has a few functions, you feed it a float value that you increment/d
 The input value must be a float between 0.0 and 100.0, and the returned value is also a float between 0.0 and 100.0. Linear percentage in - Non linear percentage out.
 
 This is what it does:
-![alt text](https://github.com/RPBCACUEAIIBH/Delinearizer/blob/Arduino/Images/Delinearizer.png)
+![Delinearizer.png](https://raw.githubusercontent.com/RPBCACUEAIIBH/Delinearizer/Arduino/Documentation/Delinearizer.png)
