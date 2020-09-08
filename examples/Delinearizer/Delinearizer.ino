@@ -1,3 +1,22 @@
+/*
+The Delinearizer library is designed to simulate Logarithmic, Inverse Logarithmic, and S-Curve tapered potmeter output on Arduino.
+
+
+Hardware requirements:
+- Arduino connected to PC.
+
+
+Libraries requirements:
+- Delinearizer (This one.)
+
+
+Skill requirements:
+- You need to have basic arduino skills. (Understanding arduino code, installing and using libraries, etc. This is a library of source code with an example sketch not a tutorial, so I won't explain everything here.)
+
+
+If you find this useful, please consider donationg: http://osrc.rip/Support.html
+*/
+
 #include <Delinearizer.h>
 
 

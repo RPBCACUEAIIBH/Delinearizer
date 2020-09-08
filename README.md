@@ -8,3 +8,5 @@ The input value must be a float between 0.0 and 100.0, and the returned value is
 
 This is what it does:
 ![Delinearizer.png](https://raw.githubusercontent.com/RPBCACUEAIIBH/Delinearizer/Arduino/Documentation/Delinearizer.png)
+
+[If you find this useful, please consider donationg.](http://osrc.rip/Support.html)
